@@ -3,4 +3,5 @@
 *.npy
 */data/*
 *.ipynb_checkpoints/*
+*.mat
 
