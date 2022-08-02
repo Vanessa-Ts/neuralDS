@@ -4,4 +4,6 @@
 */data/*
 *.ipynb_checkpoints/*
 *.mat
+*.swc
+*.conf
 
