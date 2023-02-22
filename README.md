@@ -1,2 +1,2 @@
 # neuralDS
-Neural Data Science Coding Labs
+Coding Labs from the Neural Data Science Lecture
